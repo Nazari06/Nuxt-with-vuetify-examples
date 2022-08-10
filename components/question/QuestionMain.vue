@@ -196,7 +196,6 @@ export default {
   margin-top: 0px !important;
   border-radius: 50% !important;
 }
-
 .add-col{
   margin-top:-20px !important;
   z-index:2 !important;
@@ -208,8 +207,6 @@ button.remove-answer-btn{
     background-color:transparent;
     margin-right: -5px !important;
 }
-
-
 button.add-question-btn::before{
 color:#FFF !important;
 font-size: 21px;
